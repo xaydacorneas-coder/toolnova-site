@@ -1,0 +1,3 @@
+# ads.txt - chỉ cần khi bạn dùng Google AdSense.
+# Sau khi tài khoản AdSense được duyệt, xóa dấu # ở dòng dưới và thay pub-XXXXXXXXXXXXXXXX bằng mã nhà xuất bản của bạn.
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
